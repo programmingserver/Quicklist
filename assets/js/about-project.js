@@ -21,7 +21,7 @@ aboutProject.onclick = () => {
             <div class="line_dividerX"></div>
             <footer class="form_footer" id="about_project_footer">
                 <p id="last_update"></p>
-                <a href="https://github.com/MinecraftJohn/to-do-list" target="_blank" rel="noopener noreferrer">Visit Github for more info.</a>
+                <a href="https://github.com/programmingserver/Quicklist" target="_blank" rel="noopener noreferrer">Visit Github for more info.</a>
             </footer>
         </div>
     `;
