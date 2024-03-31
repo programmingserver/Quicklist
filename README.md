@@ -24,6 +24,3 @@ Note: localStorage has a limit of 5MB and clearing your browser's data will also
 
 To install the project, clone the repository to your local machine using Git or download the project as a ZIP file and extract it, then open the `index.html` file in your web browser. There are no additional dependencies or installation steps required.
 
-### Changelog
-
-Go to [Changelog.md](https://github.com/MinecraftJohn/to-do-list/blob/release/CHANGELOG.md) to see previous changes or [Dev-Changelog](https://github.com/MinecraftJohn/to-do-list/blob/development/dev-CHANGELOG.md) for notable development changes.
